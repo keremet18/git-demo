@@ -2,9 +2,3 @@ Hello! Hello!
 Hello, what's your name?
 Hello! Hello! Hello!
 My name is John, my name is John
-Hello, John, hello, John, hello.
-Hello, hello, hello, what's your name?
-Hello! Hello! Hello!
----------------------------------
-
-
