@@ -8,3 +8,8 @@ Hello, what's your name?
 Hello! Hello! Hello!
 My name is Jane, my name is Jane
 
+Hello! Hello!
+Hello, what's your name?
+Hello! Hello! Hello!
+My name is James, my name is James
+
